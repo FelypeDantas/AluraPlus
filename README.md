@@ -1,6 +1,6 @@
 # AluraPlus
 
-![AluraPlus Logo](link-para-sua-imagem)
+![AluraPlus Logo](AluraPlus.png)
 
 AluraPlus é uma plataforma de streaming que oferece uma ampla gama de cursos online e conteúdo educativo. O objetivo deste projeto é fornecer uma experiência de aprendizado acessível e interativa para todos os usuários.
 
